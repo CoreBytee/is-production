@@ -1,0 +1,29 @@
+{
+	"name": "is-production",
+	"description": "Simple package that exports the env type",
+	"license": "MIT",
+	"version": "1.0.0",
+	"type": "module",
+	"devDependencies": {
+		"@types/bun": "latest",
+		"typescript": "^5"
+	},
+	"exports": {
+		"types": "./dist/index.d.ts",
+		"default": "./dist/index.js"
+	},
+	"files": [
+		"dist"
+	],
+	"keywords": [
+		"development",
+		"production",
+		"env",
+		"environment",
+		"is-production",
+		"is-development",
+		"nodejs",
+		"bun",
+		"typescript"
+	]
+}
