@@ -17,6 +17,9 @@
 	"files": [
 		"dist"
 	],
+	"scripts": {
+		"prepublish": "tsc"
+	},
 	"keywords": [
 		"development",
 		"production",
