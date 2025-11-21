@@ -3,6 +3,8 @@
 	"description": "Simple package that exports the env type",
 	"license": "MIT",
 	"version": "1.0.0",
+	"repository": "https://github.com/CoreBytee/is-production",
+	"bugs": "https://github.com/CoreBytee/is-production/issues",
 	"type": "module",
 	"devDependencies": {
 		"@types/bun": "latest",
