@@ -1,5 +1,5 @@
 {
-	"name": "is-production",
+	"name": "@corebyte/is-production",
 	"description": "Simple package that exports the env type",
 	"license": "MIT",
 	"version": "1.0.0",
